@@ -1,0 +1,17 @@
+✅ Step 1: Install Python and OpenCV
+Ensure Python is installed. You can check using:
+
+cmd command -> python --version
+If not installed, download and install Python from Python.org.
+
+Install OpenCV using pip:
+
+cmd command -> pip install opencv-python
+pip install opencv-python-headless  # If no display is required
+
+✅ Step 2: Save the Script
+Save your Python script with a .py extension (e.g., face_detection.py) in a directory, for example:
+
+makefile
+C:\Users\YourUsername\Documents\face_detection.py
+Place the image (raja.jpg) in the same directory.
